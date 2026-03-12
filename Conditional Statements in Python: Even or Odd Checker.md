@@ -6,7 +6,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 🧠 Algorithm
 Set variable a to the result of the expression 0 == True.
-Set variable b to the result of the expression False == False.
+Set variable b to the result of the expression False == False .
 Set variable c to the result of the expression True + True.
 Set variable d to the result of the expression False + 9.
 Print the value of a with the label "a is".
