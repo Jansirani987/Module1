@@ -1,18 +1,29 @@
 # Conditional Statements in Python: Even or Odd Checker
 
 ## 🎯 Aim
-To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.
+To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False.
+
 
 ## 🧠 Algorithm
-1. Get an input from the user.
-2. Convert the input to an integer and store it in a variable `a`.
-3. Use the modulo operator `%` to check if `a % 2 == 0`.
-   - If true, print `"EVEN"`.
-   - Else, print `"ODD"`.
-4. End the program.
+Set variable a to the result of the expression 0 == True.
+Set variable b to the result of the expression False == False.
+Set variable c to the result of the expression True + True.
+Set variable d to the result of the expression False + 9.
+Print the value of a with the label "a is".
+Print the value of b with the label "b is".
+Print the value of c with the label "c:".
+Print the value of d with the label "d:"
 
 ## 🧾 Program
-
+```
+a=(input())
+b=(input())
+print((a == b))
+```
 ## Output
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f1f89f7a-e01e-42af-9b7c-f6e330055254" />
 
 ## Result
+
+Thus the python program to print the boolean value is executed successfully.
+
