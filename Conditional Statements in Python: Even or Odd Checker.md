@@ -21,7 +21,7 @@ b=(input())
 print((a == b))
 ```
 ## Output
-<img width="487" height="261" alt="image" src="https://github.com/user-attachments/assets/a3619888-4fcf-4b83-9202-12f6053410be" />
+<img width="422" height="223" alt="Screenshot (940)" src="https://github.com/user-attachments/assets/f65b1cc7-72c0-4845-94c7-0b480bc1f6aa" />
 
 ## Result
 
